@@ -1,1 +1,1 @@
-# class-35th-solution
+# class-35th-project
